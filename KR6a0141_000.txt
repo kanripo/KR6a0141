@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說十一想思念如來經
+#+DATE: 2015-08-30 19:32:46.900992
+#+PROPERTY: JUAN 0
