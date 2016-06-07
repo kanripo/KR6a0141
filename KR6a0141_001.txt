@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:47.283396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:45
 #+TITLE: 佛說十一想思念如來經
 #+PROPERTY: CBETA_ID T02n0138
 #+PROPERTY: ID KR6a0141
